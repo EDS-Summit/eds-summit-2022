@@ -1,0 +1,12 @@
+name: "eds-summit-2022"
+title: "Environmental Data Science Summit"
+description: |
+  Environmental Data Science Summit
+output_dir: "docs"
+navbar:
+  right:
+    - text: "Home"
+      href: index.html
+    - text: "About"
+      href: about.html
+output: distill::distill_article
