@@ -11,7 +11,7 @@ includes:
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = FALSE)
 ```
-## Building a broad tent for environmental data science.
+### Building a broad tent for environmental data science.
 
 Our inaugural summit will focus on **Harnessing Diversity in Environmental Data Science.**
 
@@ -23,16 +23,12 @@ Environmental Data Science (EDS) is a growing field of interdisciplinary approac
 
 -----
 
-More details to come. If you'd like to be the first to know sign up for our mailing list below
+**We know you'd like more details! Make sure to save the date and [sign up for our mailing](https://ye3xql7qgkg.typeform.com/to/PKN2wSp6) list to be the first to know.**
 
-[Click here to join the mailing list](https://ye3xql7qgkg.typeform.com/to/PKN2wSp6)
 
 
 ----
 ### Steering committee 
 
 Do we want to list the steering committee?
-
-
-Add footer with NCEAS logo
 
