@@ -1,5 +1,5 @@
 ---
-title: "Environmental Data Science Summit 2022"
+title: "ENVIRONMENTAL DATA SCIENCE SUMMIT 2022"
 description: |
   February 8-9, 2022 | Santa Barbara, California
 site: distill::distill_website

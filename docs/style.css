@@ -1,0 +1,129 @@
+/* base variables */
+
+/* Edit the CSS properties in this file to create a custom
+   Distill theme. Only edit values in the right column
+   for each row; values shown are the CSS defaults.
+   To return any property to the default,
+   you may set its value to: unset
+   All rows must end with a semi-colon.                      */
+
+/* Optional: embed custom fonts here with `@import`          */
+/* This must remain at the top of this file.                 */
+
+/* Header font */
+@import url('https://fonts.googleapis.com/css2?family=Scope+One&family=Source+Sans+Pro:wght@300;600;700;900&display=swap');
+
+@import url('https://fonts.googleapis.com/css2?family=Nanum+Myeongjo:wght@400;700&display=swap');
+
+html {
+  /*-- Main font sizes --*/
+  --title-size:      45px;
+  --title-weight:    600;
+  --body-size:       1.06rem;
+  --code-size:       14px;
+  --aside-size:      12px;
+  --fig-cap-size:    13px;
+  /*-- Main font colors --*/
+  --title-color:     #5f613b;
+  --title-weight:    500;
+  --header-color:    #5f613b;
+  --body-color:      rgba(0, 0, 0, 0.8);
+  --aside-color:     rgba(0, 0, 0, 0.6);
+  --fig-cap-color:   rgba(0, 0, 0, 0.6);
+  /*-- Specify custom fonts ~~~ must be imported above   --*/
+  --heading-font:    Source Sans Pro;
+  --mono-font:       Roboto Mono;
+  --body-font:       Nanum Myeongjo;
+  --navbar-font:     Source Sans Pro; /* websites + blogs only */
+}
+
+/*-- ARTICLE METADATA --*/
+d-byline {
+  --heading-size:    0.6rem;
+  --heading-color:   rgba(0, 0, 0, 0.5);
+  --body-size:       0.8rem;
+  --body-color:      rgba(0, 0, 0, 0.8);
+}
+
+/*-- ARTICLE TABLE OF CONTENTS --*/
+.d-contents {
+  --heading-size:    18px;
+  --contents-size:   13px;
+}
+
+/*-- ARTICLE APPENDIX --*/
+d-appendix {
+  --heading-size:    15px;
+  --heading-color:   rgba(0, 0, 0, 0.65);
+  --text-size:       0.8em;
+  --text-color:      rgba(0, 0, 0, 0.5);
+}
+
+/*-- WEBSITE HEADER + FOOTER --*/
+/* These properties only apply to Distill sites and blogs  */
+
+.distill-site-header {
+  --title-size:       20px;
+  --text-color:       rgba(255, 255, 255, 0.8);
+  --text-size:        18px;
+  --hover-color:      white;
+  --bkgd-color:       #444b4f;
+}
+
+.distill-site-footer {
+  --text-color:       rgba(255, 255, 255, 0.8);
+  --text-size:        18px;
+  --hover-color:      white;
+  --bkgd-color:       #444b4f;
+}
+
+/*-- Additional custom styles --*/
+/* Add any additional CSS rules below                      */
+
+/* Update overall layout (body width) */
+@media(min-width: 1180px) {
+    .base-grid,
+    distill-header,
+    d-title,
+    d-abstract,
+    d-article,
+    d-appendix,
+    distill-appendix,
+    d-byline,
+    d-footnote-list,
+    d-citation-list,
+    distill-footer {
+        grid-template-columns: [screen-start] 0.5fr [page-start kicker-start] 30px [middle-start] 50px [text-start kicker-end] 100px 100px 100px 100px 100px 100px 100px 100px [text-end gutter-start] 30px [middle-end] 50px [page-end gutter-end] 0.5fr [screen-end];
+      grid-column-gap: 20px;
+    }
+
+d-article h3 {
+  color: #903749;
+}
+
+body {
+  background-color: #ffffff;
+  font-weight: 600;
+}
+
+d-title { /* background of main page title section */
+  background-color: #efefef;
+}
+
+a.title { /*havbar title font weight */
+  font-weight: 600;
+  font-size: 14px;
+  text-transform: uppercase;
+}
+
+.distill-site-header a {
+  font-weight: 700;
+}
+
+strong { /* update bold font weight */
+  font-weight: 800;
+}
+
+d-title p { /* update date size on home page */
+  font-size: 1.4rem;
+}
