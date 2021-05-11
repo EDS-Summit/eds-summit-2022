@@ -11,6 +11,12 @@ includes:
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = FALSE)
 ```
+
+```{r, echo = FALSE, out.width = "100%"}
+knitr::include_graphics("img/eds-banner-v1.jpg")
+```
+
+
 ### Building a broad tent for environmental data science.
 
 Our inaugural summit will focus on **Harnessing Diversity in Environmental Data Science.**

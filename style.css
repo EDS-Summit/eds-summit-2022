@@ -24,9 +24,9 @@ html {
   --aside-size:      12px;
   --fig-cap-size:    13px;
   /*-- Main font colors --*/
-  --title-color:     #5f613b;
+  --title-color:     #04657e;
   --title-weight:    500;
-  --header-color:    #5f613b;
+  --header-color:    #04657e;
   --body-color:      rgba(0, 0, 0, 0.8);
   --aside-color:     rgba(0, 0, 0, 0.6);
   --fig-cap-color:   rgba(0, 0, 0, 0.6);
@@ -104,6 +104,7 @@ d-article h3 {
 body {
   background-color: #ffffff;
   font-weight: 600;
+  font-family: Nanum Myeongjo;
 }
 
 d-title { /* background of main page title section */
