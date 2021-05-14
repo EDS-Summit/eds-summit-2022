@@ -1,7 +1,8 @@
 ---
-title: "ENVIRONMENTAL DATA SCIENCE SUMMIT 2022"
+title: "ENVIRONMENTAL DATA SCIENCE SUMMIT"
 description: |
-  February 8-9, 2022 | Santa Barbara, California
+  February 8-9, 2022 | Santa Barbara, California   
+  Annual theme: Harnessing Diversity in Environmental Data Science
 site: distill::distill_website
 includes:
       in_header: assets/header.html
@@ -12,7 +13,7 @@ includes:
 knitr::opts_chunk$set(echo = FALSE)
 ```
 
-## Announcing the first annual summit to build an Environmental Data Science Research Coordination Network.
+## Announcing an annual summit to build an Environmental Data Science Research Coordination Network.
 
 Environmental Data Science (EDS) is a growing field of interdisciplinary approaches to answering environmental questions with modern data science tools. This field is broad, diverse, and expanding. Our goal is to bring together all types of environmental data scientists to begin laying the foundation for a more cohesive and collaborative community that reaches beyond disciplinary boundaries. 
 
