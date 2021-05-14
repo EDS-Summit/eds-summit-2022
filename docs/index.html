@@ -55,7 +55,7 @@ pre > code.sourceCode > span > a:first-child::before { text-decoration: underlin
 }
 code span.al { color: #ad0000; } /* Alert */
 code span.an { color: #5e5e5e; } /* Annotation */
-code span.at { } /* Attribute */
+code span.at { color: #20794d; } /* Attribute */
 code span.bn { color: #ad0000; } /* BaseN */
 code span.bu { } /* BuiltIn */
 code span.cf { color: #007ba5; } /* ControlFlow */
@@ -76,7 +76,7 @@ code span.kw { color: #007ba5; } /* Keyword */
 code span.op { color: #5e5e5e; } /* Operator */
 code span.ot { color: #007ba5; } /* Other */
 code span.pp { color: #ad0000; } /* Preprocessor */
-code span.sc { color: #5e5e5e; } /* SpecialChar */
+code span.sc { color: #20794d; } /* SpecialChar */
 code span.ss { color: #20794d; } /* SpecialString */
 code span.st { color: #20794d; } /* String */
 code span.va { color: #111111; } /* Variable */
@@ -1861,10 +1861,7 @@ code span.wa { color: #5e5e5e; font-style: italic; } /* Warning */
 
       // hoverable references
       $('span.citation[data-cites]').each(function() {
-        var refs = $(this).attr('data-cites').split(" ");
-        var refHtml = refs.map(function(ref) {
-          return "<p>" + $('#ref-' + ref).html() + "</p>";
-        }).join("\n");
+        var refHtml = $('#ref-' + $(this).attr('data-cites')).html();
         window.tippy(this, {
           allowHTML: true,
           content: refHtml,
@@ -2447,18 +2444,14 @@ code span.wa { color: #5e5e5e; font-style: italic; } /* Warning */
 
 
 <div class="d-article">
+<h2 id="announcing-the-first-annual-summit-to-build-an-environmental-data-science-research-coordination-network.">Announcing the first annual summit to build an Environmental Data Science Research Coordination Network.</h2>
+<p>Environmental Data Science (EDS) is a growing field of interdisciplinary approaches to answering environmental questions with modern data science tools. This field is broad, diverse, and expanding. Our goal is to bring together all types of environmental data scientists to begin laying the foundation for a more cohesive and collaborative community that reaches beyond disciplinary boundaries.</p>
+<h3 id="if-you-use-data-to-ask-questions-about-our-environment-and-how-we-interact-with-it-this-summit-is-for-you">If you use data to ask questions about our environment and how we interact with it, this summit is for you!</h3>
+<h2 id="more-information-coming-soon.-sign-up-to-be-in-the-know.">More information coming soon. <a href="https://ye3xql7qgkg.typeform.com/to/PKN2wSp6">Sign up to be in the know</a>.</h2>
 <div class="layout-chunk" data-layout="l-body">
 <p><img src="img/eds-banner-v1.jpg" width="100%" /></p>
 </div>
-<h3 id="building-a-broad-tent-for-environmental-data-science.">Building a broad tent for environmental data science.</h3>
-<p>Our inaugural summit will focus on <strong>Harnessing Diversity in Environmental Data Science.</strong></p>
-<p>Environmental Data Science (EDS) is a growing field of interdisciplinary approaches to answering environmental questions with modern data science tools. This field is broad, diverse, and expanding. Our goal is to bring together all types of environmental data scientists to begin laying the foundation for a more cohesive and collaborative community that reaches beyond disciplinary boundaries.</p>
-<h3 id="if-you-use-data-to-ask-questions-about-our-environment-and-how-we-interact-with-it-this-summit-is-for-you">If you use data to ask questions about our environment and how we interact with it, this summit is for you!</h3>
 <hr />
-<p><strong>We know you’d like more details! Make sure to save the date and <a href="https://ye3xql7qgkg.typeform.com/to/PKN2wSp6">sign up for our mailing</a> list to be the first to know.</strong></p>
-<hr />
-<h3 id="steering-committee">Steering committee</h3>
-<p>Do we want to list the steering committee?</p>
 <div class="sourceCode" id="cb1"><pre class="sourceCode r distill-force-highlighting-css"><code class="sourceCode r"></code></pre></div>
 <!--radix_placeholder_article_footer-->
 <!--/radix_placeholder_article_footer-->
