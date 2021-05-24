@@ -19,7 +19,7 @@ Environmental Data Science (EDS) is a growing field of interdisciplinary approac
 
 ### If you use data to ask questions about our environment and how we interact with it, this summit is for you! 
 
-## More information coming soon. [Sign up to be in the know](https://ye3xql7qgkg.typeform.com/to/PKN2wSp6).
+## More information coming soon. [Sign up to be in the know](https://forms.gle/uLUeWkBzYQ4T9TpA8).
 
 
 ```{r, echo = FALSE, out.width = "100%"}
