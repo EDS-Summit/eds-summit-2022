@@ -3,6 +3,7 @@ title: "Environmental Data Science Summit"
 description: |
   Environmental Data Science Summit
 output_dir: "docs"
+google_analytics: "UA-88745704-4"
 navbar:
   right:
     - text: "Home"
