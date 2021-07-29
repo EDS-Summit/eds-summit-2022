@@ -26,7 +26,20 @@ Environmental Data Science (EDS) is a growing field of interdisciplinary approac
 knitr::include_graphics("img/eds-banner-v1.jpg")
 ```
 
+### Steering Committee
+
+[Ben Halpern](https://www.nceas.ucsb.edu/about-us/our-people) | 
+[Elizabeth Wolkovich](https://biodiversity.ubc.ca/people/faculty/elizabeth-m-wolkovich) |
+[Noam Ross](https://www.noamross.net/) |
+[Amanda Whitmire](https://library.stanford.edu/people/thalassa) |
+[Susan Shingledecker](https://www.esipfed.org/about/staff/susan-shingledecker) |
+[Dawn Wright](https://dusk.geo.orst.edu/index.html) |
+[Dorris Scott](https://dscott.netlify.app/) |
+[Stephanie Carroll](https://igp.arizona.edu/person/stephanie-russo-carroll-drph-mph) |
+[Leah Wasser](https://www.leahwasser.com/)  
+
 -----
 
 A Research Coordination Network, hosted by the [National Center for Ecological Analysis and Synthesis](https://www.nceas.ucsb.edu/) and funded by the National Science Foundation.
+
 
