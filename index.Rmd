@@ -27,7 +27,9 @@ knitr::include_graphics("img/eds-banner-v1.jpg")
 
 Day 1 will begin with a mix of talks, panels, and engaging participant activities designed to spark conversations, collaborations and idea generation. Session themes include Entryways to Environmental Data Science, Environmental Data Justice, and Ethics & Bias in Environmental Data Science. Participants will use the morning activities to develop research ideas or questions to work on during the second day. 
 
-Day 2 will be structured similarly to an unconference, where participants self-select ideas from Day 1 to collaborate on in small groups. By the end of the Summit, participants will have worked together to identify community needs and research ideas for Harnessing Diversity in Environmental Data Science. We will then support the community  to extend its ideas, conversations and collaborations beyond the Summit.
+Day 2 will be structured similarly to an unconference, where participants self-select ideas from Day 1 to collaborate on in small groups. By the end of the Summit, participants will have worked together to identify community needs and research ideas for Harnessing Diversity in Environmental Data Science. 
+
+We will then support the community  to extend its ideas, conversations and collaborations beyond the Summit.
 
 
 ### Participation & Application
