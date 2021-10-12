@@ -58,9 +58,9 @@ We have a room block at the [Mar Monte Hyatt Hotel](https://www.hyatt.com/en-US/
 
 ### COVID-19 Policies for the Summit
 
-As of October, 2021 the plan is to hold the Environmental Data Science Summit in person. Weather permitting, we will encourage outdoor interactions whenever possible. In order to gather safely, all participants must follow these policies:  
+As of October 2021, the plan is to hold the Environmental Data Science Summit in person. Weather permitting, we will encourage outdoor interactions whenever possible. In order to gather safely, all participants must follow these policies:  
 
-- Must show proof of vaccination OR a negative COVID test within 72 hours of Day 1 
+- Must show proof of vaccination OR a negative COVID test within 72 hours of February 7th 
 - Must wear masks when indoors (except when eating or drinking)
 
 Policies are subject to change based on UCSB guidelines, local, state or national ordinances, and/or the discretion of event organizers
