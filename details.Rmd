@@ -1,0 +1,32 @@
+---
+title: "Details"
+output:
+  distill::distill_article:
+editor_options: 
+  chunk_output_type: console
+---
+
+## Summit Details
+
+### Registration Fee
+
+The Summit registration fee is $225.
+
+Students & Early Career Researchers can purchase a discounted registration at $175.
+
+*Registration fees will be waived for up to 60 participants that are selected to receive funding.*
+
+
+### Location & Lodging
+
+The Summit will be held at the [Cabrillo Arts Pavilion](https://cabrillopavilion.santabarbaraca.gov/). The [Mar Monte Hyatt Hotel](https://www.hyatt.com/en-US/hotel/california/mar-monte-hotel/sbars) is directly across the street from the Pavilion and will be the most convenient hotel for attendees. There are additional hotels within walking distance from the Pavilion.
+
+
+### COVID-19 Policies for the Summit
+
+As of October 2021, the plan is to hold the Environmental Data Science Summit in person. Weather permitting, we will encourage outdoor interactions whenever possible. In order to gather safely, all participants must follow these policies:  
+
+- Must show proof of vaccination OR a negative COVID test within 72 hours of February 8th 
+- Must wear masks when indoors (except when eating or drinking)
+
+Policies are subject to change based on UCSB guidelines, local, state or national ordinances, and/or the discretion of event organizers

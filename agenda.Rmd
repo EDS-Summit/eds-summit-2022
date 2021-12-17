@@ -1,0 +1,34 @@
+---
+title: "Agenda"
+output:
+  distill::distill_article:
+editor_options: 
+  chunk_output_type: console
+---
+
+## Agenda
+
+A more detailed agenda will be shared in January 2022.
+
+
+  
+|**February 8th**
+|-----------|----------|
+| 8:30 am   | Breakfast |
+| 9:00 am   | Morning speaker session |
+| 12:15 pm  | Lunch  |
+| 1:30 pm   | Afternoon collaborative session |
+| 5:00 pm   | Cocktails & Coloring |
+| 6:00 pm   | Dinner |
+
+
+|**February 9th**
+|-----------|----------|
+| 8:30 am | Breakfast |
+| 9:00 am | Morning session (continued work from Day 1) |
+| 12:30 pm| Lunch  |
+| 1:30 pm | Afternoon collaborative session |
+| 4:00 pm | Wrap up & closing |
+
+
+*Details subject to change. All meals will be provided on-site at the Cabrillo Pavilion*
